@@ -9,3 +9,4 @@ build
 /.project
 /appdata/**/gen
 /appdata/**/uigen
+/dist/
