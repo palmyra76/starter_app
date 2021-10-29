@@ -1,0 +1,1 @@
+API Schema Configuration will be maintained under this directory

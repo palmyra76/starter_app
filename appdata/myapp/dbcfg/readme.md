@@ -1,0 +1,1 @@
+Virtual data model configuration will be maintained under this directory
