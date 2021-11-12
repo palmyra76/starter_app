@@ -16,7 +16,7 @@ repositories {
 sourceCompatibility = '11'
 
 dependencies {
-	implementation group: 'com.biocliq.fluwiz', name: 'fluwiz-server', version:'0.3-SNAPSHOT'	
+	implementation group: 'com.biocliq.fluwiz', name: 'fluwiz-server', version:'0.3.1-SNAPSHOT'	
 
 	testImplementation group: 'javax.servlet', name: 'javax.servlet-api', version: '4.0.1'
 	testImplementation group: 'org.springframework.security', name: 'spring-security-test', version: '5.5.0'		
